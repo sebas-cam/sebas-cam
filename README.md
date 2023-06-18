@@ -1,7 +1,10 @@
 # Hi there this is Sebastian! 👋
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feruzu&layout=compact&custom_title=Lenguajes&nbsp;más&nbsp;utilizados%20⌨️&bg_color=100,dac9df,92a8d1&title_color=fff&text_color=fff)
+
+height="320" />
 
 * 💙 I love developing and researching
 * 🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills
