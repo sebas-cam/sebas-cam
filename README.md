@@ -1,4 +1,4 @@
-# Hi there this is Sebastian! 👋
+# Hi there, this is Sebastian! 👋
 <br>
 
 * 💙 I love developing and researching
