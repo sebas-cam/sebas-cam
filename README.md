@@ -7,3 +7,4 @@
 * 📬 Reach me out on [Linkedin](https://www.linkedin.com/in/sebastian-campos-marcenal/) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebas-cam&layout=compact&custom_title=Most%20Used%20Languages&bg_color=100,104b89,525252&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sebas-cam&layout=compact&custom_title=Most%20Used%20Languages)
